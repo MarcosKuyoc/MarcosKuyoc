@@ -2,7 +2,7 @@
 
 Programador con 14 años de experiencia, logrando desarrollar e implementar diferentes productos que ayudan a las empresas y/o personas a generar información útil y de calidad para la toma de mejores decisiones, aumentando la eficiencia de las tareas y procesos generando mejores utilidades.
 
-- CV : [CV-Marcos-kuyoc.pdf](https://github.com/Marcos-Kuyoc-FullStack/Marcos-Kuyoc-FullStack/files/10238682/CV-Marcos-kuyoc.pdf)
+- CV : [CV-Marcos-kuyoc.pdf](https://github.com/MarcosKuyoc/MarcosKuyoc/files/10238682/CV-Marcos-kuyoc.pdf)
 - ⛽ Actualmente trabajo en una compañía del sector energético en México llamada [Gulf Mexico](https://gulfmexico.mx/)
 - 💻 Me considero un desarrollador mas de lado del Backend sin embargo he trabajado en diferentes proyectos también del lado del Front y aplicaciones móviles.
 - ❓ Puedes hacerme cualquier pregunta de temas basados en APIS, Base de datos, Arquitectura Hexagonal, TDD, CI/CD, AWS,
@@ -91,7 +91,7 @@ Programador con 14 años de experiencia, logrando desarrollar e implementar dife
 ## Connect with me
 
 <div align="center">
-<a href="[https://github.com/https://github.com/Marcos-Kuyoc-FullStack](https://github.com/https://github.com/Marcos-Kuyoc-FullStack)" target="_blank">
+<a href="[https://github.com/https://github.com/MarcosKuyoc](https://github.com/https://github.com/MarcosKuyoc)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -100,7 +100,7 @@ Programador con 14 años de experiencia, logrando desarrollar e implementar dife
 
 ## Github Stats
 
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Marcos-Kuyoc-FullStack&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Marcos-Kuyoc-FullStack&show_icons=true&count_private=true&hide_border=true)" align="center" /></div>
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=MarcosKuyoc&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=MarcosKuyoc&show_icons=true&count_private=true&hide_border=true)" align="center" /></div>
 
 <br/>
 
@@ -111,7 +111,7 @@ Programador con 14 años de experiencia, logrando desarrollar e implementar dife
 <br/>
 
 <div align="center">
-<img src="[https://komarev.com/ghpvc/?username=Marcos-Kuyoc-FullStack&&style=flat-square](https://komarev.com/ghpvc/?username=Marcos-Kuyoc-FullStack&&style=flat-square)" align="center" />
+<img src="[https://komarev.com/ghpvc/?username=MarcosKuyoc&&style=flat-square](https://komarev.com/ghpvc/?username=MarcosKuyoc&&style=flat-square)" align="center" />
 </div>
 
 <br/>
