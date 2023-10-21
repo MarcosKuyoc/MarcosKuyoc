@@ -2,10 +2,12 @@
 
 Programador con 14 años de experiencia, logrando desarrollar e implementar diferentes productos que ayudan a las empresas y/o personas a generar información útil y de calidad para la toma de mejores decisiones, aumentando la eficiencia de las tareas y procesos generando mejores utilidades.
 
-- CV : [CV-Marcos-kuyoc.pdf](https://github.com/MarcosKuyoc/MarcosKuyoc/files/10238682/CV-Marcos-kuyoc.pdf)
-- ⛽ Actualmente trabajo en una compañía del sector energético en México llamada [Gulf Mexico](https://gulfmexico.mx/)
+
+- CV : [cv_es_2023_update.pdf](https://github.com/MarcosKuyoc/MarcosKuyoc/files/13059500/cv_es_2023_update.pdf)
+- 🏦 Trabaje para una empresa del sector bancario, en el area de microservicios [Fundacion Donde](https://www.bancodonde.com/)
+- ⛽ Trabaje en una compañía del sector energético en México llamada [Gulf Mexico](https://gulfmexico.mx/)
 - 💻 Me considero un desarrollador mas de lado del Backend sin embargo he trabajado en diferentes proyectos también del lado del Front y aplicaciones móviles.
-- ❓ Puedes hacerme cualquier pregunta de temas basados en APIS, Base de datos, Arquitectura Hexagonal, TDD, CI/CD, AWS,
+- ❓ Puedes hacerme cualquier pregunta de temas basados en APIS, Base de datos, Arquitectura Hexagonal, TDD, CI/CD, AWS, Microservicios
 - ⚡ Hobbies: Como hobbies he logrado crear algunos proyectos en mis tiempos libres.
     1. Pagina Web de Tours [Tours por Yucatan] [https://visitasanfelipeyucatan.com/](https://visitasanfelipeyucatan.com/)
     2. Consultoría para creación de proyectos [Clientes de Canada y Guadalajara] [https://mappercode.com/](https://mappercode.com/)
