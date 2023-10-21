@@ -1,4 +1,4 @@
-### <div align="center">Hola soy Marcos Kuyoc un desarrollador Full Stack Javascript 👨‍💻</div>
+### <div align="center">Hola soy Marcos Kuyoc, Desarrollador Backend  - Javascript, Typescript 👨‍💻</div>
 
 Programador con 14 años de experiencia, logrando desarrollar e implementar diferentes productos que ayudan a las empresas y/o personas a generar información útil y de calidad para la toma de mejores decisiones, aumentando la eficiencia de las tareas y procesos generando mejores utilidades.
 
